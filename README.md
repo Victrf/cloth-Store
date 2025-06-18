@@ -22,6 +22,20 @@ Mobile menu toggler for smaller screens
 🎯 Navigation & Menu System
 Mega Menu:
 
+
+https://your-live-link.com
+
+
+Noel-Store/
+│
+├── index.html
+├── styles.css
+├── script.js        # jQuery interactions (menu, toggles)
+├── /images/         # Local assets
+├── /products/       # Product JSON or backend API
+
+
+
 Multicolumn dropdowns
 
 Product categories segmented by gender, age, and use (e.g., Men's, Women's, Kids', Parfumes, Beauty)
